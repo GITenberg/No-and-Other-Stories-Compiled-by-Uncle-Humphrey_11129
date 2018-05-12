@@ -1,6 +1,9 @@
 _repo: No-and-Other-Stories-Compiled-by-Uncle-Humphrey_11129
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Uncle Humphrey's Stories
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Various
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11129#No-and-Other-Stories-Compiled-by-Uncle-Humphrey
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
